@@ -3,3 +3,5 @@ Have a good time!
 
 
 will record git commands here.
+
+git add.
